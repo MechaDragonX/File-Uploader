@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Press Start 2P";
+    src: url(https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap);
+}
+body {
+    background-color: #18181A;
+    font-family: "Press Start 2P", cursive;
+    color: white;
+    margin: 10px 10px 10px 10px;
+}
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+p {
+    font-size: 14px;
+    padding: 1px 1px 1px 1px;
+    margin: 2px 2px 2px 2px;
+}
+p.scyther {
+    text-decoration:line-through;
+}
+p.ja {
+    font-family: Famicom;
+}
+div {
+    border: 5px solid white;
+    padding: 5px 5px 5px 5px;
+    margin: 10px 2px 10px 2px;
+}
+a {
+    color: #ff1493;
+}
+a.pink-purple {
+    color: #0DDA0D;
+}
+.mediatitle {
+    font-style: italic;
+}
